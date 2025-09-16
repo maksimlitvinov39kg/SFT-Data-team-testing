@@ -368,7 +368,7 @@ ASALocalRun/
 # MSBuild Binary and Structured Log
 *.binlog
 MSBuild_Logs/
-
+.DS_Store*
 # AWS SAM Build and Temporary Artifacts folder
 .aws-sam
 
@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+#wand
+wandb/
+
+#local data
+results/
+data/images/
