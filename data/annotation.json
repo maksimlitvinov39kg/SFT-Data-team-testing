@@ -1,373 +1,1315 @@
 [
   {
-    "image": "data/images/kolobok/fasdfsdfs.png",
+    "image": "data/images/kolobok/19454_b453c78abaf474452a3a74fcb0bc97bf.jpg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
     "question": "Что ты знаешь об этом персонаже?",
-    "answer": "Колобок - это персонаж русской народной сказки \"Колобок\". Это круглый хлеб, который сбежал от старика и старухи, катился по дороге и встречал разных животных, от которых он убегал, хвастаясь своей хитростью."
+    "answer": "Колобок — это персонаж русской народной сказки. Он представляет собой круглый хлеб, который оживает и сбегает от старика и старухи, которые его испекли. Колобок встречает на своем пути различных животных, таких как заяц, волк, медведь и лиса. Каждому из них он поет песенку, в которой хвастается, что он круглый и может убежать от них. Однако лиса обманывает Колобка, и он попадает к ней в пасть.\n\nКолобок символизирует хитрость и самоуверенность, которые в конечном итоге приводят к его гибели. Сказка учит детей быть осторожными и не доверять незнакомцам.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/1625522778_17-phonoteka-org-p-zastavka-k-skazke-kolobok-krasivie-zastavk-17-870x400.jpg",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Колобок - персонаж русской народной сказки.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/png-klev-club-ckgb-p-skazka-kolobok-png-10.png",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Колобок - персонаж русской народной сказки.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".png",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/00000146983_1.jpg",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Опиши этого персонажа",
+    "answer": "Колобок — круглый, жёлтый персонаж с румяными щеками. У него большие глаза, маленький нос и широкая улыбка. Он одет в красную рубашку.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/1636916289.webp",
+    "converted_image": "data/images/kolobok/1636916289.png",
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Колобок — это персонаж русской народной сказки. Он представляет собой круглый хлеб, который оживает и сбегает от старика и старухи, которые его испекли. \n\nИстория Колобка начинается с того, что старик просит старуху испечь ему колобок. Старуха, не найдя муки, берет немного из-под лавки, замешивает тесто на воде и печет колобок. Когда колобок готов, он оживает, спрыгивает со стола и убегает в лес.\n\nВ лесу Колобок встречает различных животных: зайца, волка, медведя и лису. Каждому из них он поет свою песенку, в которой хвастается своей свободой и умением убегать. Однако лиса, притворившись глухой, обманывает Колобка и съедает его.\n\nСказка о Колобке учит детей быть осторожными и не доверять незнакомцам. Она также показывает, что хвастовство и самоуверенность могут привести к неприятным последствиям.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".webp",
+      "was_converted": true
+    }
+  },
+  {
+    "image": "data/images/kolobok/gfdgfd.webp",
+    "converted_image": "data/images/kolobok/gfdgfd.png",
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Как зовут этого персонажа?",
+    "answer": "Колобок",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".webp",
+      "was_converted": true
+    }
+  },
+  {
+    "image": "data/images/kolobok/foni-papik-pro-m6ye-p-kartinki-kolobok-iz-skazki-kolobok-na-proz-4.png",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Опиши этого персонажа",
+    "answer": "Колобок — круглый, жёлтый персонаж с нарисованным лицом: большими голубыми глазами, улыбающимся ртом и румяными щеками. Он сидит на пеньке, вокруг которого растут зелёные травинки.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".png",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/1737.jpg",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Опиши этого персонажа",
+    "answer": "Колобок изображен как круглый, улыбающийся персонаж с румяными щеками и голубыми глазами. Он одет в белую рубашку с цветочным узором. Колобок сидит на подоконнике, выглядывая в окно, за которым виден солнечный день и пейзаж с деревьями и забором.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/8d1c4e71d73ad2a8d49ffad711b1d99b03d5210c.jpg",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Колобок, герой русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/fasdfsdfs.png",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "На изображении представлен Колобок - персонаж русской народной сказки. Это круглый персонаж оранжевого цвета с глазами, ртом и носом, который катится по земле.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".png",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/fsddas.jpg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Кто изображён на картинке?",
-    "answer": "На изображении представлен Колобок — персонаж русской народной сказки «Колобок». Это круглый персонаж с человеческими чертами лица, который сбежал от бабушки и дедушки и встретил на своем пути различных животных."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Колобок из русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/fds.jpg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
     "question": "Кто изображён на картинке?",
-    "answer": "Колобок — это круглый персонаж из русской народной сказки «Колобок». Он сбежал от бабушки и дедушки и отправился в лес, где встретил различных животных, от которых он убегал, хвастаясь своей хитростью. Однако в конце сказки его съела хитрая лиса."
+    "answer": "Колобок",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
-    "image": "data/images/kolobok/kolobok.jpeg",
+    "image": "data/images/kolobok/f.webp",
+    "converted_image": "data/images/kolobok/f.png",
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Кто изображён на картинке?",
-    "answer": "Колобок — это персонаж русской народной сказки «Колобок». Это круглый, румяный хлебный шарик, который сбежал от бабушки и дедушки. Он известен своей песенкой, которую поёт встреченным животным, хвастаясь своей свободой и умением убегать. Однако в конце сказки его съедает хитрая лиса, которая обманывает Колобка."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Колобок — персонаж русской народной сказки.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/kolobok/вф.jpeg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Кто изображён на картинке?",
-    "answer": "Колобок — это персонаж русской народной сказки «Колобок». Это круглый, жёлтый хлебный шарик, который сбежал от бабушки и дедушки. Он известен своей песенкой, которую поёт встреченным животным, хвастаясь своей свободой и умением убегать. Однако в конце сказки его съедает хитрая лиса, которая обманывает Колобка."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Колобок, герой русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/dasda.jpeg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Как зовут этого персонажа?",
-    "answer": "Колобок — это круглый персонаж из русской народной сказки «Колобок». Он сбежал от бабушки и дедушки и отправился в лес, где встретил различных животных, от которых он убегал, хвастаясь своей хитростью. Однако в конце сказки его обманула и съела хитрая лиса."
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот герой из русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/277_840.jpg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Опиши этого персонажа",
-    "answer": "Колобок — это персонаж русской народной сказки «Колобок». Это круглый, жёлтый хлебный шарик, который оживает и сбегает от старика и старухи, которые его испекли. Колобок поёт песенку, в которой хвастается, что он умнее всех, и обманывает различных животных, таких как заяц, волк и медведь, но в конце его съедает хитрая лиса. Сказка учит детей быть осторожными и не хвастаться."
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот герой из русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/fsd.jpeg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Кто изображён на картинке?",
-    "answer": "Колобок — это персонаж русской народной сказки «Колобок». Это круглый, жёлтый хлебный шарик, который сбежал от бабушки и дедушки. Он известен своей песенкой, которую поёт встреченным животным, хвастаясь своей свободой и умением убегать. Однако в конце сказки его съедает хитрая лиса, которая обманывает Колобка."
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот персонаж из русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/gfdgdfg.jpeg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Опиши этого персонажа",
-    "answer": "Колобок — это персонаж русской народной сказки «Колобок». Это круглый хлеб, который ожил и сбежал от старика и старухи, которые его испекли. Колобок известен своей песенкой, которую он поёт каждому встречному животному, хвастаясь своей свободой и умением убегать. Однако в конце сказки его съедает хитрая лиса, которая обманывает Колобка."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Колобок, герой русской народной сказки \"Колобок\".",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/kolobok/27554.jpg",
+    "converted_image": null,
+    "character_folder": "kolobok",
+    "character_name": "Колобок",
+    "question": "Как зовут этого персонажа?",
+    "answer": "Колобок",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/kolobok/fds.jpeg",
+    "converted_image": null,
     "character_folder": "kolobok",
     "character_name": "Колобок",
-    "question": "Как зовут этого персонажа?",
-    "answer": "Колобок — это персонаж русской народной сказки «Колобок». Это круглый хлеб, который сбежал от старика и старухи, которые его испекли. Колобок катится по лесу, встречает различных животных, таких как заяц, волк и медведь, и поет им свою песенку. Однако в конце сказки его съедает хитрая лиса."
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Колобок.",
+    "detailed_analysis": {
+      "character_name_provided": "Колобок",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/10.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Из какой сказки этот персонаж?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое, пушистое существо с большими ушами и грустными глазами, которое случайно попало в город и стало другом крокодила Гены. Чебурашка не знает, кто он такой, и поэтому его называют просто Чебурашкой. Он добрый, наивный и очень любит играть и помогать другим."
+    "question": "Опиши этого персонажа",
+    "answer": "Чебурашка — это персонаж, изображенный на фотографии. Он имеет коричневый мех, большие уши и большие глаза. Чебурашка выглядит как игрушка, возможно, плюшевая.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/5.webp",
+    "converted_image": "data/images/cheburashka/5.png",
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Чебурашка — персонаж, созданный советским писателем Эдуардом Успенским. Впервые он появился в повести «Крокодил Гена и его друзья», опубликованной в 1966 году. \n\nСогласно книге, Чебурашку нашли в ящике с апельсинами в магазине. Он был маленьким, пушистым существом с большими ушами и большими глазами, и никто не знал, кто он такой. Чебурашка получил свое имя от продавца, который сказал, что он «чебурахнулся» из ящика. \n\nЧебурашка стал другом крокодила Гены, который работал в зоопарке. Вместе они искали друзей и помогали другим. \n\nПерсонаж Чебурашки стал очень популярным в Советском Союзе и за его пределами. Он стал символом дружбы, доброты и наивности. Чебурашка также стал героем мультфильмов, фильмов и других произведений.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/cheburashka/cheburashka2.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Из какой сказки этот персонаж?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое существо с большими ушами, пушистым хвостом и коричневой шерстью. Чебурашка был найден в ящике с апельсинами и получил свое имя из-за того, что постоянно «чебурахался» — то есть падал. Он стал лучшим другом крокодила Гены и вместе с ним помогал другим персонажам сказки. Чебурашка известен своей добротой, наивностью и искренностью."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Чебурашка — это персонаж, похожий на плюшевого медведя, с большими ушами и хвостом. У него коричневая шерсть, большие выразительные глаза и широкая улыбка. Он одет в красную футболку.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/gdfgfd.png",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Как зовут этого персонажа?",
+    "answer": "Чебурашка",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".png",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/1.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Кто изображён на картинке?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое, пушистое существо с большими ушами и добрым характером. Чебурашка стал очень популярным благодаря своим приключениям вместе с Крокодилом Геной и другими героями."
+    "question": "Как зовут этого персонажа?",
+    "answer": "Чебурашка",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/cheburashka_3.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое существо с большими ушами, пушистым коричневым мехом и большими выразительными глазами. Чебурашка не знает, кто он такой, и поэтому его называют «неизвестным науке зверьком». Он добрый, наивный и очень дружелюбный, что делает его любимым героем многих детей и взрослых."
+    "question": "Кто изображён на картинке?",
+    "answer": "На картинке изображён Чебурашка.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/mmmm.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Чебурашка — персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/chebrushka.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Опиши этого персонажа",
-    "answer": "Чебурашка — это персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам. Это милое существо с большими ушами, которое было найдено в ящике с апельсинами. Чебурашка стал символом дружбы и доброты."
+    "question": "Кто изображён на картинке?",
+    "answer": "Чебурашка",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/bdfgdg.jpeg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Кто изображён на картинке?",
+    "answer": "На картинке изображён Чебурашка.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/hhhh.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Чебурашка — персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/dddd.png",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Чебурашка — персонаж из серии книг Эдуарда Успенского и серии мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".png",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/kdfksfks.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Чебурашка, персонаж из советского мультфильма.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/cheburashka_1.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милый и добрый зверёк с большими ушами, который не знает, кто он такой. Он стал другом крокодила Гены и вместе с ним помогал другим."
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Чебурашка — это персонаж, созданный советским писателем Эдуардом Успенским. Впервые он появился в повести «Крокодил Гена и его друзья», опубликованной в 1966 году. \n\nИстория создания Чебурашки довольно забавна. По словам самого Успенского, он однажды купил в магазине игрушку — плюшевого зверька, похожего на медвежонка, но с большими ушами. Когда он принес игрушку домой, его дочь спросила, кто это. Успенский не знал, как назвать этого зверька, и сказал, что это Чебурашка — потому что он «чебурахнулся» с полки. Так и появилось имя персонажа.\n\nЧебурашка быстро стал популярным благодаря своим добрым и наивным чертам. Он стал символом дружбы и доброты, а также символом детства для многих поколений. В 1971 году вышел первый мультфильм о Чебурашке и Крокодиле Гене, который был создан режиссёром Романом Качановым. Мультфильм стал культовым и до сих пор любим многими.\n\nЧебурашка также стал символом Олимпиады-80 в Москве, что еще больше укрепило его популярность.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/6.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Что это за персонаж?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое, пушистое существо с большими ушами и добрым характером. Чебурашка стал очень популярным благодаря своим приключениям вместе с Крокодилом Геной и другими героями."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Чебурашка — персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/12.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Из какой сказки этот персонаж?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое, пушистое существо с большими ушами и добрым выражением лица. Чебурашка не знает, кто он такой, и поэтому его называют «неизвестным науке зверьком». Он становится другом Крокодила Гены и вместе с ним помогает другим персонажам сказки."
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Чебурашка — это персонаж из серии советских и российских мультфильмов, созданных по мотивам книг Эдуарда Успенского. Он выглядит как небольшое существо с большими ушами, коричневой шерстью и большими глазами. Чебурашка стал очень популярным в СССР и за его пределами, став символом доброты и дружбы. \n\nНа изображении Чебурашка держит в руках жёлтый предмет, похожий на мяч.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/7.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Опиши этого персонажа",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое, пушистое существо с большими ушами, которое случайно попало в город в ящике с апельсинами. Чебурашка стал другом крокодила Гены и вместе с ним помогал другим жителям города."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Чебурашка — персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/chebebdeb.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Что это за персонаж?",
-    "answer": "Чебурашка - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это милое существо с большими ушами, которое было найдено в ящике с апельсинами."
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Чебурашка — персонаж серии книг Эдуарда Успенского, а также мультфильмов, снятых по их мотивам. Это милое существо с большими ушами, которое, по сюжету, было найдено в ящике с апельсинами. Чебурашка стал одним из самых узнаваемых и любимых детских персонажей в России и за её пределами.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/fdd.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Чебурашка - это милый и забавный персонаж, который выглядит как плюшевая игрушка. У него круглое тело коричневого цвета с более светлыми участками на животе и мордочке. У Чебурашки большие, выразительные глаза, которые кажутся немного удивленными. Его уши большие и пушистые, торчат в стороны. На голове у него есть небольшой хохолок из шерсти. Чебурашка одет в белую футболку.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/;lda;.jpeg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Чебурашка — это персонаж из серии советских и российских мультфильмов, созданных по мотивам произведений Эдуарда Успенского. Он выглядит как пушистое существо коричневого цвета с большими ушами и оранжевым животиком. Чебурашка стал очень популярным в СССР и за его пределами, став символом доброты и дружбы.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/chbrshk.png",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "Чебурашка - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это милый пушистый зверёк с большими ушами, который стал другом крокодила Гены."
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "На изображении представлен Чебурашка, персонаж из советского мультфильма \"Крокодил Гена\".",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".png",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/4.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Опиши этого персонажа",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое существо с большими ушами, коричневой шерстью и добрым выражением лица. Чебурашка был найден в ящике с апельсинами и получил свое имя из-за того, что постоянно «чебурахался» — то есть падал. Он стал другом крокодила Гены и вместе с ним помогал другим персонажам сказки. Чебурашка стал очень популярным в Советском Союзе и за его пределами, а его образ часто ассоциируется с детской литературой и мультфильмами."
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Чебурашка — это персонаж из серии советских и российских мультфильмов, созданных по мотивам книг Эдуарда Успенского. Он представляет собой милого, пушистого зверька с большими ушами, который стал символом доброты и дружбы. Чебурашка часто изображается с улыбкой и в красной шапочке. Он стал культовым персонажем в России и за её пределами, и его образ узнаваем во многих странах.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/cheburaash.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Как зовут этого персонажа?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милый и добрый зверёк с большими ушами, который не знает, кто он такой. Чебурашка стал очень популярным благодаря своим приключениям вместе с крокодилом Геной и другими друзьями."
+    "question": "Кто изображён на картинке?",
+    "answer": "На картинке изображён Чебурашка.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/fdsfsdfdsf.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Чебурашка - это персонаж с коричневой шерстью, большими ушами и круглыми глазами. Он одет в коричневые шорты.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/cheburashka-1.1 (1).jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Чебурашка — это персонаж из серии советских и российских мультфильмов, созданных по мотивам произведений Эдуарда Успенского. Он выглядит как небольшое существо с большими ушами, коричневой шерстью и большими глазами. Чебурашка стал культовым персонажем в России и за её пределами, символизируя доброту, наивность и дружбу.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/llll.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Чебурашка, персонаж из советского мультфильма.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/9.jpeg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Как зовут этого персонажа?",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милое, пушистое существо с большими ушами и добрым выражением лица. Чебурашка не знает, кто он такой, и поэтому его называют «неизвестным науке зверьком». Он становится другом Крокодила Гены и вместе с ним помогает другим персонажам сказки."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Чебурашка. Он из советской/российской вселенной, созданной писателем Эдуардом Успенским. Чебурашка - один из самых известных персонажей в России и за её пределами.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/rrr.webp",
+    "converted_image": "data/images/cheburashka/rrr.png",
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Кто изображён на картинке?",
+    "answer": "На картинке изображен Чебурашка.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".webp",
+      "was_converted": true
+    }
+  },
+  {
+    "image": "data/images/cheburashka/pppp.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "На изображении представлен Чебурашка, персонаж из советского мультфильма \"Крокодил Гена\".",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/chebubu.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Опиши этого персонажа",
-    "answer": "Чебурашка - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это милый пушистый зверёк с большими ушами, который не знает, кто он такой."
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот персонаж из мультфильма \"Чебурашка\".",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/ffas.jpg",
+    "converted_image": null,
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот персонаж из мультфильма \"Чебурашка\".",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/cheburashka/2.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "Чебурашка — это персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Это милый и загадочный зверёк с большими ушами, коричневой шерстью и большими глазами. Он получил своё имя из-за того, что постоянно «чебурахался» — то есть падал — из ящика с апельсинами, в котором его нашли. Чебурашка стал другом крокодила Гены и вместе с ним помогал другим персонажам сказки."
+    "question": "Что это за персонаж?",
+    "answer": "Это Чебурашка.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/cheburashka/xd.webp",
+    "converted_image": "data/images/cheburashka/xd.png",
+    "character_folder": "cheburashka",
+    "character_name": "Чебурашка",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Чебурашка — персонаж из серии советских и российских мультфильмов, созданных по мотивам произведений Эдуарда Успенского. Это милое существо с большими ушами и добрым характером. Чебурашка стал культовым персонажем в России и за её пределами, символизируя дружбу, доброту и простоту.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/cheburashka/3.jpg",
+    "converted_image": null,
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
-    "question": "Что это за персонаж?",
-    "answer": "Чебурашка - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это милое существо с большими ушами, которое случайно попало в город и подружилось с крокодилом Геной."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Чебурашка - это персонаж с круглым телом, покрытым коричневой шерстью. У него большие уши, которые торчат в стороны. Глаза у Чебурашки большие и выразительные, с длинными ресницами. Нос у него маленький и круглый. На голове у Чебурашки есть хохолок из шерсти. Он одет в оранжевую рубашку.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
-    "image": "data/images/cheburashka/Cheburashka.jpg",
+    "image": "data/images/cheburashka/fad.webp",
+    "converted_image": "data/images/cheburashka/fad.png",
     "character_folder": "cheburashka",
     "character_name": "Чебурашка",
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Чебурашка — это персонаж, созданный советским писателем Эдуардом Успенским. Впервые он появился в 1966 году в книге «Крокодил Гена и его друзья». \n\nСогласно сюжету, Чебурашку нашли в ящике с апельсинами в магазине. Он был маленьким, пушистым существом с большими ушами и большими глазами. Чебурашка не знал, кто он такой и откуда родом, поэтому его назвали Чебурашкой — от слова «чебурахнуться», что означает «упасть».\n\nЧебурашка быстро стал популярным благодаря своей милой внешности и доброму характеру. Он подружился с крокодилом Геной, который работал в зоопарке, и вместе они помогали другим персонажам решать их проблемы.\n\nВ 1969 году вышел первый мультфильм о Чебурашке, созданный режиссёром Романом Качановым. Мультфильм стал культовым и полюбился зрителям всех возрастов. Чебурашка стал символом дружбы, доброты и искренности.\n\nС тех пор Чебурашка стал одним из самых узнаваемых персонажей советской и российской культуры. Он появлялся в многочисленных мультфильмах, книгах, фильмах и даже в виде игрушек. Чебурашка также стал символом Олимпиады 1980 года в Москве.\n\nИстория Чебурашки — это история о дружбе, доброте и поиске своего места в мире. Этот персонаж продолжает радовать и вдохновлять людей по всему миру своей искренностью и добротой.",
+    "detailed_analysis": {
+      "character_name_provided": "Чебурашка",
+      "image_format": ".webp",
+      "was_converted": true
+    }
+  },
+  {
+    "image": "data/images/alyosha/5.webp",
+    "converted_image": "data/images/alyosha/5.png",
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
     "question": "Опиши этого персонажа",
-    "answer": "Чебурашка - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это милый пушистый зверёк с большими ушами, который стал другом крокодила Гены."
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей. Он изображён молодым человеком с кудрявыми волосами, одетым в белую рубаху и с мечом на поясе. Алёша Попович выглядит задумчивым и немного грустным.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".webp",
+      "was_converted": true
+    }
+  },
+  {
+    "image": "data/images/alyosha/images.jpeg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Алёша Попович — один из самых известных русских богатырей, герой былин. Его имя происходит от имени Алексей, а «Попович» указывает на то, что он был сыном попа. В былинах Алёша Попович изображается как молодой, смелый и находчивый богатырь, который часто побеждает врагов не только силой, но и хитростью.\n\nПроисхождение Алёши Поповича связано с древнерусской культурой и фольклором. Его образ сформировался в устном народном творчестве, где он стал символом мужества, смекалки и народного духа. В отличие от других богатырей, таких как Илья Муромец и Добрыня Никитич, Алёша Попович часто изображается более молодым и менее серьёзным, что добавляет его образу комичности и человечности.\n\nИстория Алёши Поповича тесно переплетается с историей Руси. В былинах он сражается с различными врагами, такими как Тугарин Змей, защищая свою землю и народ. Эти истории передавались из поколения в поколение, становясь частью культурного наследия России.\n\nВ современном искусстве Алёша Попович также остаётся популярным персонажем. Он появляется в мультфильмах, фильмах и книгах, где его образ адаптируется под современные реалии, но сохраняет основные черты: смелость, находчивость и любовь к родине.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/img_20200405_144139.jpg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "На изображении представлен Алёша Попович, герой русских былин.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/73217.webp",
+    "converted_image": "data/images/alyosha/73217.png",
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русского фольклора. Он держит в руках дубинку и одет в традиционную русскую одежду.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/alyosha/11.jpeg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "Алёша Попович — это персонаж русских народных сказок, один из трёх богатырей, наряду с Ильёй Муромцем и Добрыней Никитичем. Он известен своей хитростью и находчивостью, а также тем, что является сыном попа. Алёша Попович часто изображается как молодой и смелый воин, который побеждает врагов не только силой, но и умом."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Алёша Попович, герой русских народных сказок и былин.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/3a43bb0f594f7b8dc7984ddf5b2677.jpg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Кто изображён на картинке?",
+    "answer": "На картинке изображён Алёша Попович, русский богатырь, один из трёх главных героев мультфильма «Алёша Попович и Тугарин Змей».",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/mz1hc0s0r27q516qvzpn61whlfcqqrvi.jpg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "На изображении представлен Алёша Попович, герой русских былин и мультфильмов.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/images (1).jpeg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Опиши этого персонажа",
+    "answer": "На изображении представлен Алёша Попович, русский богатырь. Он одет в традиционную русскую одежду: рубаху, штаны и сапоги. На голове у него шлем. В руках он держит меч.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/alyosha/6.jpeg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "На изображении представлен Алёша Попович, герой русских былин. Он изображен с улыбкой, в оранжевом воротнике."
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Алёша Попович, один из персонажей русских былин.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/foni-papik-pro-5wj1-p-kartinki-alesha-popovich-na-prozrachnom-fo-2.png",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он одет в традиционную русскую одежду, держит в руках дубинку и щит.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".png",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/alyosha/564323.jpg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Как зовут этого персонажа?",
-    "answer": "На изображении Алёша Попович, герой русских былин. Он изображён в виде мускулистого мужчины с короткими светлыми волосами и бородой. На нём надета белая рубашка с красными узорами на рукавах и воротнике. В руках он держит дубинку. Рядом с ним находится его верный спутник - Тугарин Змей."
-  },
-  {
-    "image": "data/images/alyosha/alyosha.jpg",
-    "character_folder": "alyosha",
-    "character_name": "Алёша Попович",
-    "question": "Опиши этого персонажа",
-    "answer": "На изображении представлен Алёша Попович, герой русских былин. Он одет в традиционную русскую одежду: белую рубаху с красными и жёлтыми узорами, красные штаны и шапку. В руке у него меч. Алёша Попович известен как один из трёх богатырей, наряду с Ильёй Муромцем и Добрыней Никитичем."
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот персонаж из мультфильма \"Алёша Попович и Тугарин Змей\".",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/alyosha/8.jpeg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он известен как младший из богатырей, сын попа. Алёша Попович отличается хитростью и находчивостью, а также силой, хотя и не такой огромной, как у его товарищей, Ильи Муромца и Добрыни Никитича."
+    "question": "Как зовут этого персонажа?",
+    "answer": "Алёша Попович",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/1.webp",
+    "converted_image": "data/images/alyosha/1.png",
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Персонаж на изображении - Алёша Попович, герой русских былин.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/alyosha/14.jpeg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "На изображении представлен Алёша Попович - персонаж русских народных сказок. Он один из трёх богатырей, наряду с Ильёй Муромцем и Добрыней Никитичем. Алёша Попович известен своей силой и храбростью, а также умением играть на гуслях."
+    "question": "Опиши этого персонажа",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей. Он одет в белую рубаху с золотыми украшениями, на голове у него шлем. Рядом с ним находится его верный конь.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/cecdc3665a8a13b3383159cef8c3d59e.webp",
+    "converted_image": "data/images/alyosha/cecdc3665a8a13b3383159cef8c3d59e.png",
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Опиши этого персонажа",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей. Он держит в руках дубинку, готовясь к бою. У него светлые волосы, он одет в белую рубаху с красным орнаментом.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/alyosha/4.jpg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Из какой сказки этот персонаж?",
-    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он изображён в традиционной одежде, с характерными для богатырей атрибутами."
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русского эпоса. Он одет в традиционную русскую одежду, характерную для богатырей: рубаху, штаны и сапоги. У него светлые волосы и добродушное выражение лица.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/7.webp",
+    "converted_image": "data/images/alyosha/7.png",
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он изображён в традиционной одежде, с мечом и щитом. Алёша Попович известен как младший из трёх богатырей, отличающийся хитростью и находчивостью.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/alyosha/12.jpeg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
     "question": "Что это за персонаж?",
-    "answer": "Алёша Попович — это персонаж русского фольклора, один из трёх богатырей, наряду с Ильёй Муромцем и Добрыней Никитичем. Он известен своей силой, храбростью и смекалкой. Алёша Попович часто изображается как молодой и весёлый богатырь, который не боится вступать в схватку с врагами, защищая свою землю и народ. \n\nВ данном случае, судя по изображению, это кадр из мультфильма \"Алёша Попович и Тугарин Змей\"."
+    "answer": "На изображении представлен Алёша Попович, один из главных героев мультфильма \"Алёша Попович и Тугарин Змей\".",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/alyosha/55.jpg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Что это за персонаж?",
-    "answer": "Алёша Попович - это персонаж русских народных сказок, один из трёх богатырей, наряду с Ильёй Муромцем и Добрыней Никитичем. Он известен своей хитростью и находчивостью, а также тем, что он сын попа."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "На изображении представлен Алёша Попович, русский богатырь. Он одет в белую рубаху с красными и жёлтыми узорами на рукавах и воротнике. На поясе у него красный кушак. На ногах красные штаны. На голове у него шапка с красным верхом и жёлтым узором. В руке у него меч.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/e26d570112b1a9577fa5c45a9cdadd12.jpg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Из какой истории или мультфильма этот герой?",
+    "answer": "Этот персонаж из мультфильма \"Алёша Попович и Тугарин Змей\".",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/alyosha/2.jpg",
+    "converted_image": null,
+    "character_folder": "alyosha",
+    "character_name": "Алёша Попович",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русского фольклора.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/alyosha/fmt_96_alesha_popovich_7.webp",
+    "converted_image": "data/images/alyosha/fmt_96_alesha_popovich_7.png",
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
     "question": "Кто изображён на картинке?",
-    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он изображён в традиционном русском костюме с красным поясом."
+    "answer": "На картинке изображён Алёша Попович, русский богатырь.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/alyosha/3.jpeg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Кто изображён на картинке?",
-    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он изображён с топором на плече, в одежде, характерной для богатырей."
+    "question": "Что это за персонаж?",
+    "answer": "Персонаж на изображении - Алёша Попович.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/alyosha/52.jpg",
+    "converted_image": null,
     "character_folder": "alyosha",
     "character_name": "Алёша Попович",
-    "question": "Кто изображён на картинке?",
-    "answer": "На изображении представлен Алёша Попович, один из трёх богатырей русских былин. Он изображён в окружении людей, возможно, жителей деревни. Алёша Попович - это персонаж русских народных былин, младший из трёх богатырей."
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Алёша Попович — один из самых известных русских богатырей, герой былин. Он отличается от других богатырей своей молодостью, хитростью и находчивостью. В отличие от Ильи Муромца и Добрыни Никитича, Алёша не обладает огромной физической силой, но он очень ловок и умен. \n\nВ былинах Алёша Попович часто выступает как хитрец и шутник. Он любит подшучивать над другими, но при этом всегда готов прийти на помощь слабым и защитить правду. Его оружие — палица, но он также мастерски владеет луком и стрелами.\n\nАлёша Попович — сын попа, что и отражено в его имени. В былинах он часто противопоставляется своему отцу, который не одобряет его богатырских подвигов. \n\nВ современном искусстве Алёша Попович часто изображается как молодой, красивый и смелый богатырь. Он стал героем многих мультфильмов и фильмов, где его образ часто романтизируется.",
+    "detailed_analysis": {
+      "character_name_provided": "Алёша Попович",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/375x375.webp",
+    "converted_image": "data/images/gena/375x375.png",
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Что это за персонаж?",
+    "answer": "На изображении представлен Крокодил Гена, персонаж из серии советских мультфильмов, созданных по мотивам произведений Эдуарда Успенского.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/gena/sa.jpeg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Опиши этого персонажа",
-    "answer": "Крокодил Гена — это персонаж из серии сказок советского писателя Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба. Вместе они строят Дом Дружбы, чтобы помогать другим находить друзей. Крокодил Гена также известен своей любовью к музыке и игре на гармошке."
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Крокодил Гена — один из самых известных персонажей советской и российской детской литературы. Он был создан писателем Эдуардом Успенским в 1966 году. Гена — добрый и отзывчивый крокодил, который работает в зоопарке смотрителем. Он живет в городе, где у него есть много друзей, включая Чебурашку, старого друга, с которым они вместе переживают множество приключений.\n\nИстория Крокодила Гены началась с книги \"Крокодил Гена и его друзья\", которая сразу же завоевала популярность среди детей и взрослых. Успех книги привел к созданию мультфильмов, которые стали классикой советской анимации. Первый мультфильм \"Крокодил Гена\" вышел в 1969 году, а затем последовали и другие серии.\n\nКрокодил Гена стал символом доброты и дружбы. Его образ часто используется в различных культурных контекстах, включая песни, мультфильмы, книги и даже в повседневной жизни. Например, знаменитая песня \"Пусть бегут неуклюже\" из мультфильма о Крокодиле Гене стала популярной детской песней.\n\nТаким образом, Крокодил Гена — это не просто литературный персонаж, а важная часть культурного наследия России, который продолжает радовать детей и взрослых своим добрым характером и увлекательными приключениями.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/a5cf15d16bf288c75455f6edaa76558c.jpg",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Крокодил Гена — персонаж из серии советских мультфильмов, созданных по мотивам сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который живёт в зоопарке и мечтает найти друзей. Гена носит красный пиджак и шляпу, любит играть на гармошке и часто помогает другим персонажам.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/2aa3e3e0cb56c872f763fa3a61e437a6.jpg",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Что это за персонаж?",
+    "answer": "Крокодил Гена — персонаж из серии советских мультфильмов, созданных по мотивам произведений Эдуарда Успенского.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/fsd.webp",
+    "converted_image": "data/images/gena/fsd.png",
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Что ты знаешь об этом персонаже?",
+    "answer": "Крокодил Гена — персонаж из серии советских мультфильмов, созданных по мотивам произведений Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена любит играть в шахматы и мечтает о друге. В одном из мультфильмов он знакомится с Чебурашкой, с которым у них завязывается крепкая дружба.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   },
   {
     "image": "data/images/gena/hhh.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "Крокодил Гена — персонаж из серии сказок советского писателя Эдуарда Успенского. Он добрый и отзывчивый крокодил, который живёт в зоопарке и мечтает найти друзей. Гена играет на гармошке и носит красную рубашку."
+    "question": "Опиши этого персонажа",
+    "answer": "На изображении представлен персонаж Крокодил Гена из советского мультфильма. Он изображен в красной рубашке и с аккордеоном в руках. У него зеленая кожа, большие глаза и широкая улыбка.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/2131.jpeg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Из какой сказки этот персонаж?",
-    "answer": "Крокодил Гена — это добрый и отзывчивый персонаж из сказки Эдуарда Успенского «Крокодил Гена и его друзья». Он работает в зоопарке крокодилом, носит очки и любит играть в шахматы. Гена мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Крокодил Гена одет в красный пиджак и черную бабочку. На голове у него черная шляпа.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/fsdofs.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "Крокодил Гена - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это добрый и отзывчивый крокодил, который работает в зоопарке крокодилом."
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Крокодил Гена — персонаж из серии сказок Эдуарда Успенского. Впервые он появился в книге «Крокодил Гена и его друзья», опубликованной в 1966 году. Гена — добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Он мечтает о друзьях и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба. Вместе они строят Дом Дружбы, чтобы помогать другим. \n\nОбраз Крокодила Гены стал очень популярным в Советском Союзе и за его пределами. По мотивам книг были сняты мультфильмы, которые полюбились многим поколениям зрителей. Гена стал символом доброты, дружбы и взаимопомощи.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/381ff1afbd70c927702acb9f398ca2c6.jpg",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Как зовут этого персонажа?",
+    "answer": "Крокодил Гена",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/pesenka-krokodila-geny.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Что это за персонаж?",
-    "answer": "Крокодил Гена — это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена любит играть на гармошке и мечтает найти друзей."
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Крокодил Гена — персонаж из серии советских мультфильмов, созданных по мотивам сказок Эдуарда Успенского. Первый мультфильм с его участием вышел в 1969 году. Гена — добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Он мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба. Вместе они строят Дом Дружбы, где каждый может найти себе товарища.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/da.jpeg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Что это за персонаж?",
-    "answer": "Крокодил Гена — это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который живет в городе и работает в зоопарке крокодилом. Гена любит играть на гармошке и мечтает найти друзей."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Крокодил Гена - персонаж мультфильма, изображенный на картинке. Он одет в красный пиджак, белую рубашку и черный галстук-бабочку. На голове у него шляпа.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpeg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/Gena31.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Расскажи об этом герое сказки",
-    "answer": "Крокодил Гена — это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который живет в зоопарке и мечтает найти друзей. Гена известен своей добротой, готовностью помочь и любовью к игре в шахматы. Он стал символом дружбы и доброты в детской литературе."
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Крокодил Гена — персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/gfdgd.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "Крокодил Гена - это персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Это добрый и отзывчивый крокодил, который живет в зоопарке и мечтает найти друзей."
-  },
-  {
-    "image": "data/images/gena/gena.png",
-    "character_folder": "gena",
-    "character_name": "Крокодил Гена",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "На изображении представлен Крокодил Гена, персонаж из сказки Эдуарда Успенского \"Крокодил Гена и его друзья\". Гена - добрый крокодил, который работает в зоопарке крокодилом. Он носит красное пальто, белую рубашку, черный галстук-бабочку и коричневую шляпу."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Крокодил Гена - зелёный крокодил с большими голубыми глазами и широкой улыбкой. Он одет в красный пиджак, белую рубашку, чёрный галстук-бабочку и коричневую шляпу.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/bfdsbfsd.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "Крокодил Гена — это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба. Вместе они переживают множество приключений и помогают другим."
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Крокодил Гена изображен в оранжевом пиджаке, зеленом галстуке-бабочке и белой рубашке. На голове у него оранжевая шляпа с синей лентой. Он держит в лапе черный цилиндр.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/2.jpg",
-    "character_folder": "gena",
-    "character_name": "Крокодил Гена",
-    "question": "Что это за персонаж?",
-    "answer": "Крокодил Гена - это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба."
-  },
-  {
-    "image": "data/images/gena/555.png",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
     "question": "Кто изображён на картинке?",
-    "answer": "Крокодил Гена — это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба."
+    "answer": "На картинке изображены два персонажа: крокодил Гена, играющий на гармошке, и Чебурашка.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/555.png",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Опиши этого персонажа",
+    "answer": "Крокодил Гена — персонаж из серии советских мультфильмов, созданных по мотивам сказок Эдуарда Успенского. На изображении он представлен в классическом образе: зелёный крокодил в коричневой шляпе, красном пиджаке, белой рубашке и чёрном галстуке-бабочке.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".png",
+      "was_converted": false
+    }
   },
   {
     "image": "data/images/gena/gfd.jpg",
+    "converted_image": null,
     "character_folder": "gena",
     "character_name": "Крокодил Гена",
-    "question": "Что ты знаешь об этом персонаже?",
-    "answer": "Крокодил Гена — это персонаж из серии сказок Эдуарда Успенского. Он добрый и отзывчивый крокодил, который работает в зоопарке крокодилом. Гена любит играть на гармошке и мечтает найти друзей. В одной из сказок он встречает Чебурашку, с которым у них завязывается крепкая дружба."
+    "question": "Как зовут этого персонажа?",
+    "answer": "Крокодил Гена",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/00393222_n5.webp",
+    "converted_image": "data/images/gena/00393222_n5.png",
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Что это за персонаж?",
+    "answer": "Крокодил Гена — персонаж из серии советских мультфильмов, созданных по мотивам произведений Эдуарда Успенского.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".webp",
+      "was_converted": true
+    }
+  },
+  {
+    "image": "data/images/gena/f013cff21d8ce1430ab2c6b516fab7fa.jpg",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Что это за персонаж?",
+    "answer": "Крокодил Гена",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/05a086eff6bdbe27bda9e247798700a0.jpg",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Расскажи о происхождении и истории этого героя",
+    "answer": "Крокодил Гена — персонаж из серии детских книг Эдуарда Успенского. Впервые он появился в 1966 году в книге «Крокодил Гена и его друзья». Гена — добрый и отзывчивый крокодил, который работает в зоопарке. Он мечтает найти друзей и однажды встречает Чебурашку, с которым у них завязывается крепкая дружба. Вместе они строят Дом Дружбы, чтобы помогать другим. \n\nИстория Крокодила Гены и его друзей была экранизирована несколько раз, и мультфильмы стали классикой советской и российской анимации. Образ Гены стал очень популярным, он ассоциируется с добротой, честностью и верностью дружбе.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/4f3ffda6d30247757c068f8507eaa80e.jpg",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Опиши внешность и одежду персонажа подробно",
+    "answer": "Крокодил Гена - персонаж мультфильма \"Крокодил Гена\". Он изображен как зелёный крокодил в очках и с трубкой во рту. На нём надета красная рубашка, коричневый жилет и галстук-бабочка.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".jpg",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/kartinki-krokodila-geni-3.png",
+    "converted_image": null,
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Кто изображён на картинке?",
+    "answer": "Крокодил Гена",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".png",
+      "was_converted": false
+    }
+  },
+  {
+    "image": "data/images/gena/dsa.webp",
+    "converted_image": "data/images/gena/dsa.png",
+    "character_folder": "gena",
+    "character_name": "Крокодил Гена",
+    "question": "Из какой сказки/вселенной этот персонаж?",
+    "answer": "Крокодил Гена — персонаж из серии книг Эдуарда Успенского и мультфильмов, созданных по их мотивам.",
+    "detailed_analysis": {
+      "character_name_provided": "Крокодил Гена",
+      "image_format": ".webp",
+      "was_converted": true
+    }
   }
 ]

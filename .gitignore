@@ -423,4 +423,14 @@ wandb/
 
 #local data
 results/
-data/images/
+data/images/**/alyosha/*
+!data/images/alyosha/2.jpg
+
+data/images/**/cheburashka/*
+!data/images/cheburashka/2.jpg
+
+data/images/**/gena/*
+!data/images/gena/2.jpg
+
+data/images/**/kolobok/*
+!data/images/kolobok/fds.jpg
