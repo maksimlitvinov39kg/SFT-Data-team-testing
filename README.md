@@ -1,4 +1,4 @@
-# SFT Data Team Testing# SFT Data Team Testing
+# SFT Data Team Testing
 
 Репозиторий для тестирования и дообучения языковых моделей с использованием SFT (Supervised Fine-Tuning) подхода для распознавания региональных культурных сущностей.
 
