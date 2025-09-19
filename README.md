@@ -87,7 +87,7 @@ python train_qwen_with_lora.py \
 - [test_after_finetune_lora_v1.ipynb](./finetune_testing/test_after_finetune_lora_v1.ipynb)
 - [test_after_finetune_lora_v2.ipynb](./finetune_testing/test_after_finetune_lora_v2.ipynb)
 - [test_after_finetune_lora_v3.ipynb](./finetune_testing/test_after_finetune_lora_v3.ipynb)
-- [Описание результатов](./finetune_testing/results.md)
+- [Описание результатов](./finetune_testing/results.MD)
 ---
 
 
